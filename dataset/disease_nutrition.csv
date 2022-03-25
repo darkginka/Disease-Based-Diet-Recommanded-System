@@ -1,98 +1,98 @@
 disease_id,disease,ineficient_nutritions,Precaution_1,Precaution_2,Precaution_3,Precaution_4
-101,abnormal heart rhythms,Manganese Saturated_Fats  trans_fats  salt  Cholesterol Potassium,Stopping smoking and avoiding secondhand smoke.,Maintaining a healthful weight.,"Eating a healthful, balanced, low-fat diet.
+101,abnormal heart rhythms,Magnesium SaturatedFats MonosaturatedFat Protein Potassium,Stopping smoking and avoiding secondhand smoke.,Maintaining a healthful weight.,"Eating a healthful, balanced, low-fat diet.
 Eating a healthful, balanced, low-fat diet.",
-102,acne,Saturated_Fat Fiber  antioxidants  Vitamin_A  Zinc  Iodine Vitamin_D Vitamin_E,bath twice,avoid fatty spicy food,drink plenty of Water,avoid too many products
-103,aids,Zinc Vitamin_C Iron  Vitamin_B12 Vitamin_D,avoid open cuts,wear ppe if possible,consult doctor,follow up
-104,alcoholic hepatitis,Vitamin_K Manganese Protein ,stop alcohol consumption,consult doctor,medication,follow up
+102,acne,SaturatedFat Fiber Riboflavin Vitamin_A Zinc Vitamin_D Vitamin_E,bath twice,avoid fatty spicy food,drink plenty of Water,avoid too many products
+103,aids,Zinc Vitamin_C Iron Vitamin_B12 Vitamin_D,avoid open cuts,wear ppe if possible,consult doctor,follow up
+104,alcoholic hepatitis,Vitamin_K Magnesium Protein ,stop alcohol consumption,consult doctor,medication,follow up
 105,allergy,Vitamin_B6 Vitamin_D Protein,apply calamine,cover area with bandage,,use ice to compress itching
 106,arthritis,Vitamin_D  Vitamin_C  Vitamin_E,exercise,use hot and cold therapy,try acupuncture,massage
-107,bronchial asthma,Vitamin_D Polysaturated_Fat,switch to loose cloothing,take deep breaths,get away from trigger,seek help
-108,cervical spondylosis,Vitamin_B12 Polysaturated_Fat Vitamin_E Protein,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor
-109,chicken pox,Saturated_Fat Manganese Potassium  Calcium,use neem in bathing ,consume neem leaves,take vaccine,avoid public places
+107,bronchial asthma,Vitamin_D PolySaturatedFat,switch to loose cloothing,take deep breaths,get away from trigger,seek help
+108,cervical spondylosis,Vitamin_B12 PolySaturatedFat Vitamin_E Protein,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor
+109,chicken pox,SaturatedFat Magnesium Potassium  Calcium,use neem in bathing ,consume neem leaves,take vaccine,avoid public places
 110,chronic cholestasis,Vitamin_A Vitamin_D Vitamin_K Vitamin_E Potassium  Calcium,cold baths,anti itch medicine,consult doctor,eat healthy
-111,common cold,Manganese carotene  Vitamin_C folic acid,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check
-112,constipation,Vitamin_B6 Water Protein,Exercise regularly.,Drink eight 8-ounce glasses of water a day,"Good sources of fiber are fruits, vegetables, legumes, and whole-grain breads and cereals",
-113,cracks in mouth,Vitamin_B6 Iron Zinc Vitamin_B12 niacin riboflavin,topical antiseptics to keep open wounds clean.,filler injections to reduce the creases at the corners of your mouth,,
-114,cramps,Manganese Potassium Sodium Calcium,Apply ice to the affected area,"Avoid spicy, acidic, or salty foods that could irritate your mouth, gums, or tongue. ","Increase the amount of fluids you drink, particularly if you find that you have a dry mouth",
+111,common cold,Magnesium Carotene  Vitamin_C MonosaturatedFat,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check
+112,constipation,Vitamin_B6 Water Protein Zinc,Exercise regularly.,Drink eight 8-ounce glasses of water a day,"Good sources of fiber are fruits, vegetables, legumes, and whole-grain breads and cereals",
+113,cracks in mouth,Vitamin_B6 Iron Zinc Vitamin_B12 Niacin Riboflavin,topical antiseptics to keep open wounds clean.,filler injections to reduce the creases at the corners of your mouth,,
+114,cramps,Magnesium Potassium Sodium Calcium,Apply ice to the affected area,"Avoid spicy, acidic, or salty foods that could irritate your mouth, gums, or tongue. ","Increase the amount of fluids you drink, particularly if you find that you have a dry mouth",
 115,delayed wound healing,Zinc Vitamin_E Vitamin_D Copper  Zinc,Fresh fruits and vegetables eaten daily,Keep your wound dressed.,,
-116,dengue,Vitamin_D Vitamin_A Vitamin_E Iron Vitamin_C Vitamin_K,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated
-117,depressed immune function,Zinc Protein Saturated_Fat Polysaturated_Fat,"Eat a balanced diet.
+116,dengue,Vitamin_D Vitamin_A Vitamin_E Iron Vitamin_C Vitamin_K Zinc,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated
+117,depressed immune function,Zinc Protein SaturatedFat PolySaturatedFat,"Eat a balanced diet.
 Get enough sleep.
 ","Exercise regularly.
 Wash your hands.
 Keep up with your vaccines",Eat a well-balanced diet with plenty of fiber.,
-118,depression and confusion,Vitamin_B6 Protein Polysaturated_Fat,"Try to address the patient directly, even if his or her cognitive capacity is diminished.",Speak distinctly and at a natural rate of speed," IF possible, meet in surroundings familiar to the patient.",
+118,depression and confusion,Vitamin_B6 Protein PolySaturatedFat,"Try to address the patient directly, even if his or her cognitive capacity is diminished.",Speak distinctly and at a natural rate of speed," IF possible, meet in surroundings familiar to the patient.",
 119,diabetes ,Vitamin_D Protein,have balanced diet,exercise,consult doctor,follow up
 120,dimorphic hemmorhoids(piles),Vitamin_D Calcium,avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice
-121,drug reaction,Polysaturated_Fat Manganese,stop irritation,consult nearest hospital,stop taking drug,follow up
-122,"dry, scaly rash",Saturated_Fat Protein,Stop baths and showers from worsening dry skin,Apply moisturizer immediately after washing.,Use an ointment or cream rather than a lotion,
+121,drug reaction,PolySaturatedFat Magnesium,stop irritation,consult nearest hospital,stop taking drug,follow up
+122,"dry, scaly rash",SaturatedFat Protein,Stop baths and showers from worsening dry skin,Apply moisturizer immediately after washing.,Use an ointment or cream rather than a lotion,
 123,eye and skin lesions,Zinc Vitamin_E Vitamin_D,Transmission through non-intact skin contact with draining lesions possible,visit eye cliniq,,
-124,fatigue,Manganese Protein Vitamin_B12 ,"avoid lack of sleep, heavy exertion",avoid large meal,,
-125,fungal infection,Saturated_Fat Vitamin_D,bath twice,use detol or neem in bathing Water,keep infected area dry,use clean cloths
-126,gastroenteritis,Vitamin_A Protein,stop eating solid food for while,try taking small sips of Water,rest,ease back into eating
+124,fatigue,Magnesium Protein Vitamin_B12 ,"avoid lack of sleep, heavy exertion",avoid large meal,,
+125,fungal infection,SaturatedFat Vitamin_D,bath twice,use detol or neem in bathing Water,keep infected area dry,use clean cloths
+126,gastroenteritis,Vitamin_A Protein Choline,stop eating solid food for while,try taking small sips of Water,rest,ease back into eating
 127,gerd,Vitamin_B12  Vitamin_C  Calcium Iron magnesium,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
-128,growth restriction in children,Saturated_Fat Polysaturated_Fat,Eat plenty of foods,consult doctor,,
-129,hair depigmentation,Saturated_Fat Polysaturated_Fat,Avoid any rigorous exercise or sweat-inducing activity for 5 days,Don'T use shampoo in the treated area for 10 days post-treatment., Avoid getting the treated scalp area wet for 7 days post-treatment,
+128,growth restriction in children,SaturatedFat PolySaturatedFat,Eat plenty of foods,consult doctor,,
+129,hair depigmentation,SaturatedFat PolySaturatedFat,Avoid any rigorous exercise or sweat-inducing activity for 5 days,Don'T use shampoo in the treated area for 10 days post-treatment., Avoid getting the treated scalp area wet for 7 days post-treatment,
 130,hair loss,Zinc Vitamin_E Vitamin_D Vitamin_E,Regularly wash your hair with mild shampoo,Vitamin for hair loss,Scalp massage with essential oils,
 131,heart attack,Vitamin_D Protein,Quit smoking.,Keep check and control the cholesterol levels.,Control blood pressure levels,
 132,hepatitis a,Vitamin_D Vitamin_A,call ambulance,chew or swallow asprin,keep calm,
-133,hepatitis b,Manganese Vitamin_B6,Consult nearest hospital,wash hands through,avoid fatty spicy food,medication
-134,hepatitis c,Manganese Vitamin_D Vitamin_C,consult nearest hospital,vaccination,eat healthy,medication
-135,hepatitis d,Manganese Vitamin_D,Consult nearest hospital,vaccination,eat healthy,medication
-136,hepatitis e,Manganese Vitamin_E,consult doctor,medication,eat healthy,follow up
-137,hypertension ,Vitamin_D  Protein,stop alcohol consumption,rest,consult doctor,medication
+133,hepatitis b,Magnesium Vitamin_B6,Consult nearest hospital,wash hands through,avoid fatty spicy food,medication
+134,hepatitis c,Magnesium Vitamin_D Vitamin_C,consult nearest hospital,vaccination,eat healthy,medication
+135,hepatitis d,Magnesium Vitamin_D,Consult nearest hospital,vaccination,eat healthy,medication
+136,hepatitis e,Magnesium Vitamin_E,consult doctor,medication,eat healthy,follow up
+137,hypertension ,Vitamin_D  Protein Water,stop alcohol consumption,rest,consult doctor,medication
 138,hyperthyroidism,Vitamin_C Protein,meditation,salt baths,reduce stress,get proper sleep
 139,hypochromic anemia,Iron Protein Carotene,eat healthy,massage,use lemon balm,take radioactive iodine treatment
-140,hypoglycemia,Vitamin_B12 Iron,"Eat plenty of iron-rich foods,",Monitor your blood sugar,Don't skip or delay meals or snacks,"Measure medication carefully, and take it on time."
+140,hypoglycemia,Vitamin_B12 Iron Choline,"Eat plenty of iron-rich foods,",Monitor your blood sugar,Don't skip or delay meals or snacks,"Measure medication carefully, and take it on time."
 141,hypothyroidism,Iron  selenium  Vitamin_A Zinc ,lie down on side,check in pulse,drink sugary drinks,consult doctor
-142,impaired cognitive function,Iron Protein Carotene,reduce stress,exercise,eat healthy,get proper sleep
+142,impaired cognitive function,Iron Protein Carotene MonosaturatedFat,reduce stress,exercise,eat healthy,get proper sleep
 143,impetigo,Vitamin_B12  Vitamin_C,Wash your hands with soap and water often (no matter whom you touch),use alcohol hand rubs,"Do not share personal items, such as towels, clothes, or hair combs",
-144,increased susceptibility to infection,Polysaturated_Fat,soak affected area in warm Water,use antibiotics,remove scabs with wet compressed cloth,consult doctor
+144,increased susceptibility to infection,PolySaturatedFat Magnesium,soak affected area in warm Water,use antibiotics,remove scabs with wet compressed cloth,consult doctor
 145,inflammation of the gums,Vitamin_B12 Potassium  Calcium,Brush at least twice a day and floss regularly,Make sure that your toothpaste (or mouthwash) is not irritating your gums.,,
-146,jaundice,Manganese Protein,Drink at least eight glasses of fluids per day,Consider adding milk thistle to your routine,"Opt for fruits like papaya and mango, which are rich in digestive enzymes.",
-147,loss of appetite,Manganese Carotene,drink plenty of Water,consume milk thistle,eat fruits and high fiberous food,medication
-148,malaria,Manganese Protein,Consult a doctor as soon as possible if you notice any malarial symptoms.,Special attention must be paid towards infants and young kids to ensure that mosquitoes don’t bite.,Avoid travelling to areas with a malaria outbreak,
+146,jaundice,Magnesium Protein Water,Drink at least eight glasses of fluids per day,Consider adding milk thistle to your routine,"Opt for fruits like papaya and mango, which are rich in digestive enzymes.",
+147,loss of appetite,Magnesium Carotene MonosaturatedFat,drink plenty of Water,consume milk thistle,eat fruits and high fiberous food,medication
+148,malaria,Magnesium Protein,Consult a doctor as soon as possible if you notice any malarial symptoms.,Special attention must be paid towards infants and young kids to ensure that mosquitoes don’t bite.,Avoid travelling to areas with a malaria outbreak,
 149,megaloblastic anemia,Iodine Vitamin_A Zinc ,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out
 150,microcytic,Iron Vitamin_A Vitamin_B12 Vitamin_C,get enough iron and vitamin c food in your diet,,,
 151,microcytic anemia,Vitamin_A Iron  Vitamin_E,get enough iron in your diet,Eat and drink vitamin C-rich foods and drinks,"Avoid drinking tea or coffee with your meals, as they can affect iron absorption.",
-152,migraine,Manganese Vitamin_D,"Watch what you eat and drink. If you get a headache, write down the foods and drinks you had before it started.",Eat regularly. Don't skip meals.,Be careful with exercise,
-153,"nausea,vomiting",Manganese Vitamin_E,meditation,reduce stress,use poloroid glasses in sun,consult doctor
-154,neurodevelopmental ,Vitamin_A Zinc iodine ,There is no certain way to prevent a neurodevelopmental disorder.,,,
-155,night blindness ,folate Vitamin_D  Vitamin_E,properly monitor your blood sugar levels and eat a balanced diet ,,,
-156,numbness,Manganese Potassium  Calcium,Consult nearest hospital,,,
+152,migraine,Magnesium Vitamin_D Water,"Watch what you eat and drink. If you get a headache, write down the foods and drinks you had before it started.",Eat regularly. Don't skip meals.,Be careful with exercise,
+153,"nausea,vomiting",Magnesium Vitamin_E,meditation,reduce stress,use poloroid glasses in sun,consult doctor
+154,neurodevelopmental ,Vitamin_A Zinc Phosphorus ,There is no certain way to prevent a neurodevelopmental disorder.,,,
+155,night blindness ,Iron Vitamin_D  Vitamin_E Copper,properly monitor your blood sugar levels and eat a balanced diet ,,,
+156,numbness,Magnesium Potassium  Calcium,Consult nearest hospital,,,
 157,osteoarthristis,Vitamin_K Protein,Consult nearest hospital,Keep a healthy body weight. Extra weight puts stress on your joints,Control your blood sugar. High blood sugar levels raise your risk of getting OA,
 158,osteomalacia,Vitamin_B12 Protein,acetaminophen,consult nearest hospital,follow up,salt baths
 159,osteoporosis,Calcium Vitamin_A,"have a healthy and varied diet with plenty of fresh fruit, vegetables and whole grains.",avoid smoking.,do regular weight-bearing and strength-training activities.,
 160,paralysis (brain hemorrhage),Vitamin_K  Vitamin_E,Get more exercise ,Lose weight,If you drink do it in moderation Treat atrial fibrillation,
 161,peptic ulcer,Vitamin_B12 Vitamin_C Bicarbonates Chloride,consult doctor,eat healthy,exercise,
-163,personality changes,Manganese Protein,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol
-164,pneumonia,Manganese Protein,Get the flu vaccine each year. People can develop bacterial pneumonia after a case of the flu.,Get the pneumococcal vaccine,Practice good hygiene.,
+163,personality changes,Magnesium Protein,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol
+164,pneumonia,Magnesium Protein,Get the flu vaccine each year. People can develop bacterial pneumonia after a case of the flu.,Get the pneumococcal vaccine,Practice good hygiene.,
 165,poor body temperature regulation,Iron bicarbonates  chloride,consult doctor,medication,rest,follow up
-166,poor wound healing,Saturated_Fat Protein,Do not take drugs that interfere with the body's natural healing process if possibl,Keep your wound dressed,,
-167,psoriasis,Saturated_Fat Manganese,Use Moisturizing Lotions,"Avoid Scrapes, Cuts, Bumps, and Infections",,
+166,poor wound healing,SaturatedFat Protein,Do not take drugs that interfere with the body's natural healing process if possibl,Keep your wound dressed,,
+167,psoriasis,SaturatedFat Magnesium,Use Moisturizing Lotions,"Avoid Scrapes, Cuts, Bumps, and Infections",,
 168,rickets,Vitamin_C Sodium  Potassium ,wash hands with warm soapy Water,stop bleeding using pressure,consult doctor,salt baths
 169,scaling of the lips,Vitamin_B6 Protein,Use lip balm. A good balm can buffer your delicate lip skin from the elements,Use a humidifier indoors.,,
 170,scurvy fatigue,Vitamin_B12 Potassium  Calcium,includes vitamin C-rich foods ,,,
-171,seizures,Manganese Protein,"Replace glass in doors, windows, showers, and other spaces with safety glass or plastic.",Keep interior doors unlocked,"Use caution with hot items, which could burn you in the case of a seizure",
+171,seizures,Magnesium Protein,"Replace glass in doors, windows, showers, and other spaces with safety glass or plastic.",Keep interior doors unlocked,"Use caution with hot items, which could burn you in the case of a seizure",
 172,onychosis ,Iron bicarbonates chloride,Combination therapy,Consult nearest hospital,,
-173,stunted growth,Zinc Sodium  Potassium Iron bicarbonates chloride Protein,Iron and Folate supplements for women pre-conception and during pregnancy.,Take Vitamin A Supplementation,,
+173,stunted growth,Zinc Sodium  Potassium Iron chloride Protein,Iron and Folate supplements for women pre-conception and during pregnancy.,Take Vitamin A Supplementation,,
 175,swollen tongue,Vitamin_B6 Protein,Eat and drink something cool or suck on ice chips,"Practice good oral hygiene such as brushing and flossing, but avoid irritating mouthwashes, such as those containing alcohol",,
 176,taste alterations,Zinc Sodium  Potassium ,eat vitamin c rated food,,,
-177,tingling muscle ,Manganese Protein,Take the pressure off. Taking pressure off of the affected nerve allows it to regain normal function,Move around. Moving around could improve circulation and relieve the uncomfortable sensations you're experiencing,,
-178,tuberculosis,Manganese Potassium  Calcium,"Take all of your medicines as they're prescribed, until your doctor takes you off them.",Always cover your mouth with a tissue when you cough or sneeze.,Don't visit other people and don't invite them to visit you.,
+177,tingling muscle ,Magnesium Protein Vitamin_B6,Take the pressure off. Taking pressure off of the affected nerve allows it to regain normal function,Move around. Moving around could improve circulation and relieve the uncomfortable sensations you're experiencing,,
+178,tuberculosis,Magnesium Potassium  Calcium,"Take all of your medicines as they're prescribed, until your doctor takes you off them.",Always cover your mouth with a tissue when you cough or sneeze.,Don't visit other people and don't invite them to visit you.,
 179,typhoid,Vitamin_C Sodium  Potassium ,Consult nearest hospital,Receiving a typhoid fever vaccination,Avoiding food that is raw or undercooked,Drinking only bottled water or water that has been boiled.Thoroughly washing your hands each time before eating
-180,urinary tract infection,Protein Saturated_Fat,cover mouth,consult doctor,medication,rest
-181,varicose veins,Vitamin_E Protein,eat high calorie vegitables,antiboitic therapy,consult doctor,medication
-182,vertigo,Saturated_Fat Protein,drink plenty of Water,increase vitamin c intake,drink cranberry juice,take probiotics
-183,weakened connective tissue,Vitamin_B12 Potassium  Calcium  Manganese Protein,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long
-184,weakness,Protein Manganese,lie down,avoid sudden change in body,avoid abrupt head movment,relax
+180,urinary tract infection,Protein SaturatedFat,cover mouth,consult doctor,medication,rest
+181,varicose veins,Vitamin_E Vitamin_B6 Protein,eat high calorie vegitables,antiboitic therapy,consult doctor,medication
+182,vertigo,SaturatedFat Protein,drink plenty of Water,increase vitamin c intake,drink cranberry juice,take probiotics
+183,weakened connective tissue,Vitamin_B12 Potassium  Calcium  Magnesium Protein,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long
+184,weakness,Protein Magnesium,lie down,avoid sudden change in body,avoid abrupt head movment,relax
 185,weight loss,Vitamin_B12 Potassium  Calcium ,reguler sleep and diet,avoid tenstion,,
-186,xerophthalmia ,Vitamin_A Protein,dose depends on your age and the severity of your xerophthalmia.,Some foods that are rich in vitamin A,,
-187,vomiting,Sodium  Potassium  Calcium  Manganese bicarbonates chloride,"Eat small amounts, often and slowly.",Eat more of the foods that appeal to you,Eat in a place that is comfortable,
-188,body pain,Manganese Polysaturated_Fat, Opioids may cause respiratory depression,,,
-189,headache,Phosphorus Protein Alcohol Water ManganesePotassium,reguler sleep,,,
-190,fever,Alcohol Polysaturated_Fat Vitamin_C Water,timely hydrate,avoiding stuffy places that are too warm or have cooking odors.,,
+186,xerophthalmia ,Vitamin_A Vitamin_B6 Protein,dose depends on your age and the severity of your xerophthalmia.,Some foods that are rich in vitamin A,,
+187,vomiting,Sodium  Potassium  Calcium  Magnesium bicarbonates chloride,"Eat small amounts, often and slowly.",Eat more of the foods that appeal to you,Eat in a place that is comfortable,
+188,body pain,Magnesium PolySaturatedFat, Opioids may cause respiratory depression,,,
+189,headache,Phosphorus Protein Alcohol Water Magnesium Potassium,reguler sleep,,,
+190,fever,Alcohol PolySaturatedFat Vitamin_C Water,timely hydrate,avoiding stuffy places that are too warm or have cooking odors.,,
 191,cough,Water Protein Vitamin_E,avoid oily food,Wash your hands often with soap to avoid infection.,Drink plenty of fluids and eat healthy to build immunity.,
-192,dehydration,Water Protein Potassium  Calcium  Manganese,drink Water,take lemon juice,,
-193,tooth sensitivity,Vitamin_D  Vitamin_E,reguler brushing,avoid cold food,,
-194,acidity,Water Antioxidant,eat at reguler timing,Wear loose-fitting clothing to avoid pressure on your abdomen,Raise the head of your bed six to eight inches by placing wooden blocks under your bedposts.,
+192,dehydration,Water Protein Potassium  Calcium  Magnesium,drink Water,take lemon juice,,
+193,tooth sensitivity,Vitamin_D  Vitamin_E Vitamin_B6,reguler brushing,avoid cold food,,
+194,acidity,Water Antioxidant Bicarbonates,eat at reguler timing,Wear loose-fitting clothing to avoid pressure on your abdomen,Raise the head of your bed six to eight inches by placing wooden blocks under your bedposts.,
