@@ -14,8 +14,8 @@ CORS(app)
 # flask run --host=192.168.0.114
 
 ####### dataset #######
-food_nutrition = pd.read_csv("food_nutrition.csv")
-disease_nutrition = pd.read_csv("disease_nutrition.csv",encoding='unicode_escape')
+food_nutrition = pd.read_csv("dataset/food_nutrition.csv")
+disease_nutrition = pd.read_csv("dataset/disease_nutrition.csv",encoding='unicode_escape')
 
 """**Part-1**"""
 ####### Methods #######
@@ -56,8 +56,8 @@ def predict():
       abc = {"prediction": prediction,"precaution": dict}
       return abc
       
-"""**Preprocessing data**"""
 
+"""**Preprocessing data**"""
 def displayFood():
     columns_to_cluster = dis_list
     #MinMaxScaler
@@ -69,7 +69,6 @@ def displayFood():
     df_food_scaled = pd.DataFrame(food_scaled, columns=columns_to_cluster_scaled)
 
     """**Training the model**"""
-
     n_clusters = range(2,11)
     ssd = []
     sc = []
